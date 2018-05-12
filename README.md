@@ -5,9 +5,13 @@
 
 IBM Cloud Functions (based on Apache OpenWhisk) is a Function-as-a-Service (FaaS) platform which executes functions in response to incoming events and costs nothing when not in use.
 
+![Alt Text](https://www.ibm.com/cloud-computing/bluemix/sites/default/files/assets/page/IBM%20Cloud%20Functions%20Logo%20Primary_0_0.png)
+
 **Runtimes**
 
 Work with what you already know and love. Develop your functions directly in one of the natively supported languages, or run code in any other language (including compiled Go, C, etc. binaries) by providing us with a Docker container.
+
+![Alt Text](https://www.ibm.com/developerworks/library/wa-invoke-openwhisk-action/fig1.png)
 
 **Why Cloud Functions is used?**
 
